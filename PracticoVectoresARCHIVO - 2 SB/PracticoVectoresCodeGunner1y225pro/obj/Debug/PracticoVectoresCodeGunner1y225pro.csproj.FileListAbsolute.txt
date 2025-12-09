@@ -1,0 +1,100 @@
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\Entregar\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\Entregar\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\Entregar\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\Entregar\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\Entregar\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\Entregar\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\Entregar\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\Entregar\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Vectores\Entregar\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\ARCHIVOS SEC - MOLLO\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.AssemblyReference.cache
+D:\ARCHIVOS SEC - MOLLO\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Form1.resources
+D:\ARCHIVOS SEC - MOLLO\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Properties.Resources.resources
+D:\ARCHIVOS SEC - MOLLO\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.GenerateResource.cache
+D:\ARCHIVOS SEC - MOLLO\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.CoreCompileInputs.cache
+D:\ARCHIVOS SEC - MOLLO\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\ARCHIVOS SEC - MOLLO\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\ARCHIVOS SEC - MOLLO\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe.config
+D:\ARCHIVOS SEC - MOLLO\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\ARCHIVOS SEC - MOLLO\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225pro\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 1\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 1\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 1\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 1\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 1\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 1\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 1\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 1\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 1\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 2\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 2\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 2\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 2\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 2\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 2\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 2\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 2\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\PracRes\Archivos\BIEN 225\PracticoVectoresCodeGunner1y225 - 2\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SI\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SI\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SI\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SI\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SI\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SI\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SI\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SI\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SI\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SI\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SB\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SB\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SB\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SB\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SB\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SB\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SB\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SB\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresExamen - 2 SB\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresARCHIVO - 2 SB\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresARCHIVO - 2 SB\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresARCHIVO - 2 SB\PracticoVectoresCodeGunner1y225pro\bin\Debug\PracticoVectoresCodeGunner1y225pro.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresARCHIVO - 2 SB\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresARCHIVO - 2 SB\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresARCHIVO - 2 SB\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresARCHIVO - 2 SB\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresARCHIVO - 2 SB\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\PracticoVectoresARCHIVO - 2 SB\PracticoVectoresCodeGunner1y225pro\obj\Debug\PracticoVectoresCodeGunner1y225pro.pdb
