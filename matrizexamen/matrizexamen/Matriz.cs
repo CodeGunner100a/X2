@@ -120,39 +120,11 @@ namespace matrizexamen
         }
 
 
-        //-----------------
+     
 
 
-        public void MayorFrecuenciaTSupDer(ref int ele, ref int frec)
-        {
-            ele = 0;
-            frec = 0;
 
-            for (int f1 = 1; f1 <= f; f1++)
-            {
-                for (int c1 = f1; c1 <= c; c1++)  
-                {
-                    int cont = 0;
-                    int val = x[f1, c1];
-
-
-                    for (int f2 = 1; f2 <= f; f2++)
-                    {
-                        for (int c2 = f2; c2 <= c; c2++)
-                        {
-                            if (x[f2, c2] == val)
-                                cont++;
-                        }
-                    }
-
-                    if (cont > frec)
-                    {
-                        frec = cont;
-                        ele = val;
-                    }
-                }
-            }
-        }
 
     }
 }
+
