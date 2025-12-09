@@ -1,9 +1,0 @@
-D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\matrizexamen\matrizexamen\bin\Debug\matrizexamen.exe.config
-D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\matrizexamen\matrizexamen\bin\Debug\matrizexamen.exe
-D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\matrizexamen\matrizexamen\bin\Debug\matrizexamen.pdb
-D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\matrizexamen\matrizexamen\obj\Debug\matrizexamen.csprojResolveAssemblyReference.cache
-D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\matrizexamen\matrizexamen\obj\Debug\matrizexamen.Form1.resources
-D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\matrizexamen\matrizexamen\obj\Debug\matrizexamen.Properties.Resources.resources
-D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\matrizexamen\matrizexamen\obj\Debug\matrizexamen.csproj.GenerateResource.Cache
-D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\matrizexamen\matrizexamen\obj\Debug\matrizexamen.exe
-D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\examen final\SB\matrizexamen\matrizexamen\obj\Debug\matrizexamen.pdb
